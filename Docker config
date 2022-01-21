@@ -1,0 +1,5 @@
+db.yml 
+
+sudo docker swarm init
+
+sudo docker stack deploy -c "nome do arquivo" "nome do container"
